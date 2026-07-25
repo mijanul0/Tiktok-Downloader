@@ -1,0 +1,6 @@
+{
+  "name": "SSSTik - TikTok Video Downloader",
+  "description": "Fast, free online TikTok video downloader without watermark. Download HD MP4 videos and MP3 audio instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
